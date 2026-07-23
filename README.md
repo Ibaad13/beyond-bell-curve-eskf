@@ -1,9 +1,7 @@
-# Beyond the Bell Curve:
-## Urban GPS Multipath Characterization & Heavy-Tailed Filtering for MAVs
+# Beyond the Bell Curve: Urban GPS Multipath Characterization & Heavy-Tailed Filtering for MAVs
 
 Companion code for the paper *"Beyond the Bell Curve: Characterizing Urban GPS
 Multipath for MAV Navigation and the Limits of Heavy-Tailed Filtering"*
-
 (`paper/paper.pdf`, `paper/paper.tex`). This repo reproduces every table and
 figure from raw per-epoch error data and saved filter output. Figure
 filenames match `paper.tex`'s `\includegraphics` calls exactly, so the
@@ -30,13 +28,12 @@ present, falling back to paper-reported AGZ values otherwise.
 
 ```
 .
-├── README.md                                            --> You are here
+├── README.md                           ---
 ├── requirements.txt
 ├── LICENSE
 ├── paper/
 │   ├── paper.pdf
 │   ├── paper.tex                               
-│   └── figures/                                 
 │
 ├── part1_dataset1_AGZ_characterization/
 │   ├── characterize_dataset1.py
