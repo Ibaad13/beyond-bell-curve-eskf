@@ -11,6 +11,9 @@ filenames match `paper.tex`'s `\includegraphics` calls exactly, so the
 - **Part 2** — statistical characterization of the INSANE `outdoor_1` dataset (cross-validation)
 - **Part 3** — baseline EKF vs. three GPS-error-aware filter architectures, both datasets
 
+> [!WARNING]
+> Pls do not steal my results, I m currently writting a paper on it :))
+
 ## Quick start
 
 ```bash
