@@ -1,4 +1,4 @@
-# Beyond the Bell Curve 
+# Beyond the Bell Curve:
 ## Urban GPS Multipath Characterization & Heavy-Tailed Filtering for MAVs
 
 Companion code for the paper *"Beyond the Bell Curve: Characterizing Urban GPS
