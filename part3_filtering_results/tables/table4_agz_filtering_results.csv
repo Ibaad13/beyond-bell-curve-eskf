@@ -1,0 +1,9 @@
+Metric,Baseline_Gaussian_R (from data),Naive_Gating (paper-reported),2-Mode_IMM (paper-reported),Bias-Augmented_OU (from data)
+rmse_x,3.312,5.94,3.46,2.27
+rmse_y,4.973,7.46,5.04,3.757
+rmse_z,2.641,2.64,2.64,2.644
+rmse_h,5.975,9.54,6.12,4.39
+rmse_3d,6.532,9.9,6.66,5.124
+median_h,3.877,4.28,3.79,3.185
+p95_h,11.242,21.4,12.05,6.969
+max_h,26.736,37.31,27.54,25.103
